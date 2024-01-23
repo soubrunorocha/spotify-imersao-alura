@@ -49,3 +49,16 @@ h1 {
     font-family: "DM Sans", sans-serif;
 }
 
+
+.sidebar__library {
+    margin: 16px 0 16px 0px;
+    background-color: #121212;
+    border-radius: 8px;
+    padding: 1px 0 0 16px;
+    height: 80%;   
+}
+
+.new-playlist {
+    position: absolute;
+    right: 38px;
+}
